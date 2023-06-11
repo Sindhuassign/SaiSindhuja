@@ -1,0 +1,1 @@
+SELECT * FROM table_a  LEFT JOIN table_b on table_a.ID= table_b.ID;
